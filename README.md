@@ -18,3 +18,5 @@ Built with **MediaPipe**, **OpenCV**, and **PyAutoGUI**.
 ## 🚀 Getting Started
 ```bash
 pip install opencv-python mediapipe pyautogui
+```
+Made with ❤️ by [John]
