@@ -19,4 +19,10 @@ Built with **MediaPipe**, **OpenCV**, and **PyAutoGUI**.
 ```bash
 pip install opencv-python mediapipe pyautogui
 ```
-Made with ❤️ by [John]
+Run the script:
+```bash
+python handwave.py
+```
+Make sure your webcam is enabled.
+
+Made with ❤️ by ##John
