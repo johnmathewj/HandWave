@@ -25,4 +25,4 @@ python handwave.py
 ```
 Make sure your webcam is enabled.
 
-Made with ❤️ by ##John
+Made with ❤️ by John
