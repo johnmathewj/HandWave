@@ -1,4 +1,4 @@
-# 🖐️ HandWave
+# HandWave
 
 Control your computer using just hand gestures.  
 Built with **MediaPipe**, **OpenCV**, and **PyAutoGUI**.
